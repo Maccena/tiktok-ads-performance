@@ -1,0 +1,15 @@
+{
+  "name": "tiktok-ads-performance",
+  "owner": {
+    "name": "Fabricando Sua Ideia"
+  },
+  "description": "Skill de TikTok Ads e performance (pt-BR) baseada no curso de Caio Dlugosz.",
+  "plugins": [
+    {
+      "name": "tiktok-ads-performance",
+      "source": "./",
+      "description": "Skill de TikTok Ads e performance baseada no curso de Caio Dlugosz.",
+      "version": "1.0.0"
+    }
+  ]
+}

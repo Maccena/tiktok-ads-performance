@@ -1,0 +1,8 @@
+{
+  "name": "tiktok-ads-performance",
+  "description": "Skill de TikTok Ads e performance baseada no curso de Caio Dlugosz: conta, Pixel, campanha de conversão, criativos UGC, métricas, faixa de corte, escala e saturação, com citação de aula e minuto.",
+  "version": "1.0.0",
+  "author": { "name": "Fabricando Sua Ideia" },
+  "repository": "https://github.com/Maccena/tiktok-ads-performance",
+  "keywords": ["tiktok", "tiktok-ads", "trafego-pago", "performance", "pt-br"]
+}
